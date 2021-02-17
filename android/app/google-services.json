@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336475626250",
+    "firebase_url": "https://simple-pfc.firebaseio.com",
+    "project_id": "simple-pfc",
+    "storage_bucket": "simple-pfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336475626250:android:03aa8621500ac5fca538f3",
+        "android_client_info": {
+          "package_name": "example.pfc_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336475626250-hi6t58st008jqufrlugj0klhjvskf6vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitQf24pSz7h_EeT-UspuoRQMcYkxMOiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336475626250-hi6t58st008jqufrlugj0klhjvskf6vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336475626250-pgdas4s7gim8hrnr99udeepv86ev9dq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ryohei.pfcFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
